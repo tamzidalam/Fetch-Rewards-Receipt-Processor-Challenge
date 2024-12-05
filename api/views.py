@@ -9,6 +9,16 @@ from django.shortcuts import get_object_or_404
 
 
 
+
+@api_view(['GET'])
+def home_page(request):
+
+    return Response("Fetch-Rewards-Receipt-Processor-Challenge", status=status.HTTP_200_OK)
+
+
+
+
+
 @api_view(['GET'])
 def get_points(request):
     try:
