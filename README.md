@@ -47,6 +47,15 @@ docker container run -d -p 8000:8000 tamzidalam/fetch:final
 
 Once the Docker container is running, you can access the application by navigating to http://localhost:8000 in your web browser.
 
+### Endpoint: Process Receipts
+
+- **Path**: /receipts/process  
+- **Method**: POST  
+- **Payload**: Receipt JSON  
+- **Response**: JSON containing an id for the receipt
+- **Accessible URL**: http://localhost:8000/receipts/process
+
+
 Endpoint: Process Receipts
 Path: /receipts/process
 Method: POST
@@ -55,12 +64,11 @@ Response: JSON containing an id for the receipt
 
 Accessible URL: http://localhost:8000/receipts/process
 
-Endpoint: Get Points
-Path: /receipts/{id}/points
-Method: GET
-Response: A JSON object containing the number of points awarded.
-
-Accessible URL: http://localhost:8000/receipts/process
+### Endpoint: Get Points
+- **Path** : /receipts/{id}/points
+- **Method**: GET
+- **Response**: A JSON object containing the number of points awarded.
+- **Accessible URL**: http://localhost:8000/receipts/process
 
 
 
