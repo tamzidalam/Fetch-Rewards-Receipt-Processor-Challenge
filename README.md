@@ -70,7 +70,7 @@ Accessible URL: http://localhost:8000/receipts/process
 - **Response**: A JSON object containing the number of points awarded.
 - **Accessible URL**: http://localhost:8000/receipts/id/points
 
-- Replace "{id}  with the actual id you got from the post response. 
+- Replace "{id}"  with the actual id you got from the post response. 
 - **Example**: http://localhost:8000/receipts/7fb1377b-b223-49d9-a31a-5a02701dd310/points
 
 
