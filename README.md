@@ -36,7 +36,7 @@ cd <project_directory>
 ```
 3. Pull Docker Image:
 ```bash
-docker pull tamzidalam/fetch:final
+docker pull tamzidalam/fetch:0.0.0
 ```
 4. Run Docker Container:
 ```bash
