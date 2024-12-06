@@ -40,7 +40,7 @@ docker pull tamzidalam/fetch:final
 ```
 4. Run Docker Container:
 ```bash
-docker container run -d -p 8000:8000 tamzidalam/fetch:final
+docker container run -d -p 8000:8000 tamzidalam/fetch:0.0.0
 ```
 
 ## Accessing the Application
