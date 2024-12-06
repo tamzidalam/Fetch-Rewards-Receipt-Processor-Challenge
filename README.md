@@ -28,7 +28,7 @@ Example Response:
 ## How to Run
 1. Clone the Repository:
 ```bash
-git clone https://github.com/tamzidalam/Fetch-Receipt-Processor-Challenge.git
+git clone https://github.com/tamzidalam/Fetch-Receipt-Processor-Challenge.git](https://github.com/tamzidalam/Fetch-Rewards-Receipt-Processor-Challenge.git
 ```
 2. Navigate to the Project Directory:
 ```bash
