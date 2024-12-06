@@ -68,7 +68,7 @@ Accessible URL: http://localhost:8000/receipts/process
 - **Path** : /receipts/{id}/points
 - **Method**: GET
 - **Response**: A JSON object containing the number of points awarded.
-- **Accessible URL**: http://localhost:8000/receipts/process
+- **Accessible URL**: http://localhost:8000/receipts/id/points
 
 
 
