@@ -28,7 +28,7 @@ Example Response:
 ## How to Run
 1. Clone the Repository:
 ```bash
-git clone https://github.com/tamzidalam/Fetch-Receipt-Processor-Challenge.git](https://github.com/tamzidalam/Fetch-Rewards-Receipt-Processor-Challenge.git
+git clone https://github.com/tamzidalam/Fetch-Rewards-Receipt-Processor-Challenge.git
 ```
 2. Navigate to the Project Directory:
 ```bash
@@ -70,5 +70,7 @@ Accessible URL: http://localhost:8000/receipts/process
 - **Response**: A JSON object containing the number of points awarded.
 - **Accessible URL**: http://localhost:8000/receipts/id/points
 
+- Replace "{id}  with the actual id you got from the post response. 
+- **Example**: http://localhost:8000/receipts/7fb1377b-b223-49d9-a31a-5a02701dd310/points
 
 
