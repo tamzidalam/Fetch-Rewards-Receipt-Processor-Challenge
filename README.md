@@ -1,4 +1,4 @@
-# Fetch-Receipt-Processor-Challenge
+# Fetch-Rewards-Receipt-Processor-Challenge
 
 
 
